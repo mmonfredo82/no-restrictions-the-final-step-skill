@@ -1,0 +1,5 @@
+* text=auto
+processing-prompt.txt -text
+skill/references/processing-prompt.txt -text
+*.mjs text eol=lf
+*.py text eol=lf

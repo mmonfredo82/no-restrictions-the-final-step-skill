@@ -1,0 +1,16 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "no-restrictions-final-step",
+  "main": "src/worker.mjs",
+  "compatibility_date": "2026-10-11",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "preview_urls": false,
+  "vars": {
+    "SERVICE_ORIGIN": "https://REPLACE-WITH-YOUR-WORKER.workers.dev"
+  },
+  "secrets": {
+    "required": ["OPENROUTER_API_KEY", "SERVICE_ACCESS_TOKEN"]
+  },
+  "observability": { "enabled": false }
+}

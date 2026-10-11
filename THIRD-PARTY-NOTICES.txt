@@ -1,0 +1,136 @@
+Third party notices and source attribution
+
+The appendix is an independently worded synthesis of the following audited projects. Retain this file with copies or substantial adaptations of the prompt package. These notices are package attribution, not instructions to add attribution to each rewritten passage.
+
+No AI Slop
+Author: Peter Yang
+Source: https://github.com/petergyang/no-ai-slop/tree/000650b156983f5159695b441477f4e63b25dc85
+The complete upstream license follows unchanged.
+
+MIT License
+
+Copyright (c) 2026 Peter Yang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Humanize
+Author: Harshaneel Gokhale
+Source: https://github.com/harshaneel/humanize/tree/9c3dec34dc8e0ed9d26de14a869900a714da8f9e
+The complete upstream license follows unchanged.
+
+MIT License
+
+Copyright (c) 2026 Harshaneel Gokhale
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Humanizer
+Author: Siqi Chen
+Source: https://github.com/blader/humanizer/tree/225a6f39ac85f76ee48dbad772ea4abe4ed6c9d8
+The complete upstream license follows unchanged.
+
+MIT License
+
+Copyright (c) 2025 Siqi Chen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Avoid AI Writing
+Author: Conor Bronsdon
+Source: https://github.com/conorbronsdon/avoid-ai-writing/tree/5a5cf6a45331384d4ff68f1f6ce50da24da0da4c
+The complete upstream license follows unchanged.
+
+MIT License
+
+Copyright (c) 2026 Conor Bronsdon
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Additional upstream Avoid AI Writing package notice
+
+# Attribution and package notice
+
+The canonical Avoid AI Writing skill, detector, validator, documentation, and underlying project are Copyright (c) 2026 Conor Bronsdon and distributed under the MIT License in this repository.
+
+The ChatGPT and Codex package added in this repository preserves the original canonical skill as a generated copy that is identical except for the omitted frontmatter `metadata` block, which the OpenAI portal rejects. Its router and focused workflow skills are packaging and orchestration additions. They do not replace the original rulebook or claim authorship of it.
+
+The public OpenAI package intentionally excludes the separate `avoid-ai-writing-mcp` project. That project is optional and independently distributed.
+
+The ChatGPT and Codex packaging, router, and workflow Skills were contributed by Mamdouh Aboammar (GitHub: imMamdouhaboammar) under the same MIT License. Publication of the packaged listing is by the canonical project owner.
+
+
+Source lineage and related observations
+
+Humanizer and Humanize acknowledge Wikipedia: Signs of AI writing and WikiProject AI Cleanup. Source: https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing . This synthesis does not reproduce the long Wikipedia quotations, examples or page bodies. The repositories' MIT declarations are not a claim that independently licensed upstream works were relicensed.
+
+Avoid AI Writing further attributes selected concepts to brandonwise/humanizer, Aboudjem/humanizer-skill, welttowelt/stop-slop-refined, Simon Willison's LLM cliche highlighter, tropes.fyi, Charity Majors and named community contributors. These are acknowledged as the audited repository's source lineage, not as additional repositories fully audited here. No separate license claim is made for their websites or datasets.
+
+Additional voice-editing observations came from the exposed Reddit discussion and supplied video descriptions: https://www.reddit.com/r/claudeskills/comments/1v8wa5r/whats_the_best_humanizer_skill_out_there/ ; https://www.youtube.com/shorts/dUHpFuUIyi0 ; https://www.youtube.com/watch?v=ZCQhyS2Ad9U . Full video transcripts were unavailable. Commercial performance claims were not adopted.

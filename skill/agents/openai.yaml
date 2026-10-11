@@ -1,0 +1,4 @@
+interface:
+  display_name: "No Restrictions The Final Step Skill"
+  short_description: "Rewrite selected text with your own Qwen connection"
+  default_prompt: "Use No Restrictions The Final Step Skill for the text I select, after checking authorization and connection."

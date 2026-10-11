@@ -1,0 +1,17 @@
+{
+  "name": "no-restrictions-the-final-step-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Selected-text rewriting with a fixed v5 prompt and BYO OpenRouter Qwen 2.5 72B credentials",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs && node cloudflare/scripts/sync-shared.mjs",
+    "test": "node --test test/*.test.mjs",
+    "check": "node scripts/build.mjs --check && node cloudflare/scripts/sync-shared.mjs --check && node --test test/*.test.mjs && node scripts/scan-public.mjs",
+    "rewrite": "node src/cli.mjs",
+    "serve": "node src/server.mjs"
+  }
+}

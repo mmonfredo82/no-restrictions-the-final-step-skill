@@ -1,0 +1,5 @@
+# Copy to .dev.vars (ignored by Git), then edit locally. Never commit real secrets.
+# Obtain your own OpenRouter key and use it only in the Worker secret binding.
+OPENROUTER_API_KEY=
+# Generate 32 cryptographically random bytes as hex; do not reuse the OpenRouter key.
+SERVICE_ACCESS_TOKEN=
